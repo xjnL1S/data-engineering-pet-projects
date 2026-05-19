@@ -13,7 +13,6 @@ The script `analyze_logs.sh` processes `access.log` and generates a report (`rep
 
 ```
 analyze_logs.sh
-access.log
 report.txt
 README.md
 screenshot.png
